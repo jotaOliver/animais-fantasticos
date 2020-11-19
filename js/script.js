@@ -25,5 +25,5 @@ initFuncionamento();
 initFetchAnimais();
 initFetchBitcoin();
 
-import initAnimacaoScroll from './modules/scroll-animacao.js';
-initAnimacaoScroll();
+// import initAnimacaoScroll from './modules/scroll-animacao.js';
+// initAnimacaoScroll()
